@@ -1,0 +1,21 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "Create";
+}
+<a asp-action="Index">Список песен</a>
+<h2>Добавить</h2>
+<form method="post">
+    <p>
+        <label asp-for="Name">Название песни:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </p>
+    <p>
+        <label asp-for="Age">Год выхода:</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age"></span>
+    </p>
+    </p>
+    <p><button type="submit">Добавить</button></p>
+</form>
+

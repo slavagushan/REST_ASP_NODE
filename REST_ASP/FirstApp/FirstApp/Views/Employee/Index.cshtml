@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Список песен</h2>
+<a asp-action="Create">Добавить песню</a>
+
+<table style="width:50%">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Employee e in Model)
+        {
+            <tr>
+                <td>@e.Name</td>
+                <td>@e.Age</td>
+                <td><a asp-action="Update" asp-route-empname="@e.Name">Редактировать</a></td>
+                <td>
+                    <form asp-route-empname="@e.Name" asp-action="Delete" method="post">
+                        <button type="submit">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

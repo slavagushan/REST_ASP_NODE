@@ -1,0 +1,11 @@
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.deps.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.runtimeconfig.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.runtimeconfig.dev.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.0\FirstApp.pdb
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.csprojResolveAssemblyReference.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.csproj.CoreCompileInputs.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.AssemblyInfoInputs.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.AssemblyInfo.cs
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.0\FirstApp.pdb

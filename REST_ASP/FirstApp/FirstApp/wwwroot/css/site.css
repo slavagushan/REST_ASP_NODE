@@ -1,0 +1,71 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.container a {
+    font-family: 'Adobe Arabic';
+    font-size: 25px;
+}
+
+form p label {
+    width: 10%;
+}
+
+form p input[type="text"], form p input[type="number"], form p select {
+    width: 20%;
+}
+
+form p span {
+    width: 20%;
+    color: Red;
+}
+
+form p button, table button {
+    background-color: #006bff;
+    color: #FFF;
+}
+
+form p .input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+table {
+    border: solid 1px #ff6a00;
+}
+
+    table td, table th {
+        padding: 10px;
+    }
